@@ -24,4 +24,6 @@
 
 09. Can you write better in terms of readability, time, space complexity?
 
+10. if you can please go ahead.
+
 
